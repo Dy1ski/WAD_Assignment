@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customer_details>
+
+<customer>
+  <customer_id>1</customer_id>
+  <first_name>Dylan</first_name>
+  <surname>naumovski</surname>
+  <email>email</email>
+  <password>password</password>
+  <contact_phone>phone</contact_phone>
+</customer>
+<customer>
+  <customer_id>2</customer_id>
+  <first_name>Dylan</first_name>
+  <surname>naumovski</surname>
+  <email>email</email>
+  <password>password</password>
+  <contact_phone>phone</contact_phone>
+</customer>
+
+<customer>
+  <customer_id>3</customer_id>
+  <first_name>d</first_name>
+  <surname>d</surname>
+  <email>d</email>
+  <password>d</password>
+  <contact_phone>d</contact_phone>
+</customer>
+
+<customer><customer_id>19631</customer_id><first_name/><surname/><email/><password/><contact_phone/></customer><customer><customer_id>11347</customer_id><first_name>x</first_name><surname>x</surname><email>x</email><password>x</password><contact_phone>x</contact_phone></customer><customer><customer_id>23134</customer_id><first_name/><surname/><email/><password/><contact_phone/></customer><customer><customer_id>784</customer_id><first_name>Dylan</first_name><surname>n</surname><email>email</email><password>pas</password><contact_phone>phone</contact_phone></customer><customer><customer_id>22094</customer_id><first_name>t</first_name><surname>t</surname><email>t</email><password>qt</password><contact_phone>q</contact_phone></customer><customer><customer_id>227</customer_id><first_name>test</first_name><surname>test</surname><email>test</email><password>test</password><contact_phone>test</contact_phone></customer><customer><customer_id>20821</customer_id><first_name>f</first_name><surname>f</surname><email>f</email><password>f</password><contact_phone>f</contact_phone></customer><customer><customer_id>14514</customer_id><first_name>e</first_name><surname>e</surname><email>e</email><password>e</password><contact_phone>e</contact_phone></customer><customer><customer_id>23894</customer_id><first_name>d</first_name><surname>f</surname><email>f</email><password>f</password><contact_phone>f</contact_phone></customer><customer><customer_id>23243</customer_id><first_name>p</first_name><surname>p</surname><email>p</email><password>p</password><contact_phone>p</contact_phone></customer><customer><customer_id>13815</customer_id><first_name>g</first_name><surname>g</surname><email>g</email><password>g</password><contact_phone>g</contact_phone></customer><customer><customer_id>862</customer_id><first_name>v</first_name><surname>v</surname><email>v</email><password>v</password><contact_phone>v</contact_phone></customer><customer><customer_id>13243</customer_id><first_name>m</first_name><surname>n</surname><email>n</email><password>n</password><contact_phone>m</contact_phone></customer><customer><customer_id>2141</customer_id><first_name>oo</first_name><surname>o</surname><email>o</email><password>o</password><contact_phone>o</contact_phone></customer><customer><customer_id>1426</customer_id><first_name>o</first_name><surname>o</surname><email>o</email><password>o</password><contact_phone>o</contact_phone></customer><customer><customer_id>20246</customer_id><first_name>o</first_name><surname>o</surname><email>o</email><password>o</password><contact_phone>o</contact_phone></customer><customer><customer_id>758</customer_id><first_name>r</first_name><surname>r</surname><email>r</email><password>r</password><contact_phone>r</contact_phone></customer><customer><customer_id>12891</customer_id><first_name>customer 1</first_name><surname>last name</surname><email>email</email><password>pass</password><contact_phone>phone</contact_phone></customer><customer><customer_id>21577</customer_id><first_name>d</first_name><surname>d</surname><email>d</email><password>d</password><contact_phone>d</contact_phone></customer><customer><customer_id>21537</customer_id><first_name>l</first_name><surname>l</surname><email>l</email><password>l</password><contact_phone>(08) 9733 3194</contact_phone></customer><customer><customer_id>11571</customer_id><first_name>io</first_name><surname>io</surname><email>io</email><password>io</password><contact_phone>0499107548</contact_phone></customer></customer_details>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Listing</title>
+  <script type="text/javascript" src="validation.js"></script>
+    <script type = "text/javascript" src = "xhr.js"></script>
+    <script type = "text/javascript" src = "itemSendR.js"></script>
+  <style>
+  table
+  {
+    border-collapse: collapse;
+  }
+  table, th, td
+  {
+    border: 1px solid black;
+  }
+  td
+  {
+    padding-left:10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  #reset
+  {
+      text-align: center;
+  }
+     </style>
+
+</head>
+<body>
+  <div class = "naviagtion" align = "center">
+    <a href  ="./listing.htm">Listing</a>
+    <a href = "./processing.htm">Processing</a>
+    <a href = "./logout.htm">Logout</a>
+  </div>
+    <hr>
+  <div class = "contents" align = "center">
+  <h2> Add New Item</h2>
+  <form id="details">
+    <table>
+      <tr>
+      <td>Item Name:</td>
+      <td><input type="text" name="item" id="item"></td>
+    </tr>
+    <tr>
+      <td>Item Price:</td>
+      <td><input type="text" name="itemPrice" id="itemPrice"></td>
+    </tr>
+    <tr>
+      <td>Item Quantity: </td>
+      <td><input type="text" name="itemQuantity" id="itemQuantity"></td>
+    <tr>
+      <td>Item Description</td>
+      <td><textarea type="text" rows="2" rows="30" name="description" id="description"></textarea>
+      </tr>
+      <tr>
+        <td><button type="button" onclick="itemCheck()">Add Item</button></td>
+        <td id = reset><button type="button" onclick="reset()">Reset</button></td>
+        </tr>
+    </table>
+  </form>
+  </div>
+
+</body>
+</html>

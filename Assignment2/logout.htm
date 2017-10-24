@@ -1,0 +1,22 @@
+<?php
+session_start();
+ini_set('error_reporting',0);
+ini_set('display_errors',0);
+?>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Logout</title>
+  <script type = "text/javascript" src = "validation.js"></script>
+</head>
+<body>
+  <h2>
+<?php
+    echo "Thank you customer: ".$_SESSION["CustomerID"];
+?>
+  </h2>
+
+</body>
+
+
+</html>

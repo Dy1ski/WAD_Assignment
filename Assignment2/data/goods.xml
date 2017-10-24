@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item_details>
+
+<good>
+  <item_number>1</item_number>
+  <name>Local Joe</name>
+  <description>Local video on demand</description>
+  <price>99</price>
+  <quantity>10</quantity>
+</good>
+
+<good>
+  <item_number>2</item_number>
+  <name>View Vine</name>
+  <description>Live video on mobile</description>
+  <price>89</price>
+  <quantity>15</quantity>
+</good>
+
+<good>
+  <item_number>3</item_number>
+  <name>N95</name>
+  <description>3G Mobile</description>
+  <price>299</price>
+  <quantity>12</quantity>
+</good>
+
+<good>
+  <item_number>4</item_number>
+  <name>Nokia 6270</name>
+  <description>Quad-band Mobile</description>
+  <price>149</price>
+  <quantity>2</quantity>
+</good>
+
+<good>
+  <item_number>5</item_number>
+  <name>Google Pixel 2</name>
+  <description>Android Phone</description>
+  <price>1000</price>
+  <quantity>2</quantity>
+</good>
+
+<good>
+  <item_number>6</item_number>
+  <name>iPhone</name>
+  <description>apple product</description>
+  <price>1500</price>
+  <quantity>3</quantity>
+</good>
+<good>
+  <item_number>7</item_number>
+  <name>Volkswagen Golf</name>
+  <description>german car</description>
+  <price>99</price>
+  <quantity>3</quantity>
+</good>
+<good>
+    <item_number>8</item_number>
+    <name>university degree</name>
+    <description>a degree</description>
+    <price>24000</price>
+    <quantity>1</quantity>
+</good>
+<good>
+    <item_number>9</item_number>
+    <name>Macbook Pro</name>
+    <description>apple computer</description>
+    <price>999</price>
+    <quantity>1</quantity>
+</good>
+<good>
+  <item_number>10</item_number>
+  <name>Windows Laptop</name>
+  <description>RMIT</description>
+  <price>89</price>
+  <quantity>22</quantity>
+</good>
+<good>
+  <item_number>11</item_number>
+  <name>Chair</name>
+  <description>RMIT</description>
+  <price>839</price>
+  <quantity>13</quantity>
+</good>
+<good><item_number>15610</item_number><name>iMac</name><description>apple desktop</description><price>999</price><quantity>3</quantity></good></item_details>
